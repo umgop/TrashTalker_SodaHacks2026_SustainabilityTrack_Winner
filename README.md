@@ -2,6 +2,10 @@
 
 A smart recycling bin that automatically classifies waste into 4 categories: plastic, metal, cardboard, and trash.
 
+## Demo Video
+
+[Watch Demo Video](IMG_5182.mp4)
+
 ## Features
 
 - ESP32-S3 Camera for real-time waste detection
